@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import { authApi } from '../api'
 
 
-const VerifyEmail = ({
+const verifyEmail = ({
     email,
     onVerified,
 }) => {
@@ -163,4 +163,4 @@ const VerifyEmail = ({
     )
 }
 
-export default VerifyEmail
+export default verifyEmail

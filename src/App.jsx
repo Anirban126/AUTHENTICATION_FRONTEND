@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 
 import Login from './components/Login.jsx'
 import Register from './components/Register.jsx'
-import VerifyEmail from './components/VerifyEmail.jsx'
+import VerifyEmail from './components/verifyEmail.jsx'
 import Home from './components/Home.jsx'
 import Loading from './components/Loading.jsx'
 
