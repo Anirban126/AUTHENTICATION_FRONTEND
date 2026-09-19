@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api/auth'
+const API_URL = 'https://authentication-backend-lrqs.onrender.com/api/auth'
 
 
 async function request(endpoint, options = {}) {
