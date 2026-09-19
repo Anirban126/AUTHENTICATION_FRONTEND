@@ -1,4 +1,4 @@
-const API_URL = 'https://authentication-backend-lrqs.onrender.com/api/auth'
+const API_URL = 'https://authentication-backend-1-nqni.onrender.com//api/auth'
 
 
 async function request(endpoint, options = {}) {
